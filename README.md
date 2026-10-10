@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,12,24,36&amp;height=240&amp;section=header&amp;text=Mohamed%20Hassan%20Shaban&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Flutter%20Developer%20%7C%20Mobile%20%26%20AI%20Enthusiast&amp;descSize=18&amp;descAlignY=56" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36&height=220&section=header&text=Mohamed%20Hassan%20Shaban&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=9333EA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=50&amp;lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Hassan+Shaban;Flutter+%26+Dart+Developer;Computer+Science+Student+%40+Nahda+University;Building+AI-Powered+Mobile+Apps;Open+to+Remote+%26+Global+Opportunities" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9333EA&width=600&lines=Flutter+Developer;Computer+Science+Student;AI+and+Mobile+App+Enthusiast" alt="Typing SVG" />
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-9333EA?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Fayoum%2C%20Egypt-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" />
@@ -144,4 +142,3 @@ Building: AI-powered cross-platform mobile solutions and productivity tools
 Exploring: Computer Vision workflows and scalable cloud microservices
 Open To: Flutter Developer roles, mobile engineering internships, and open-source collaborations
 ```
- 
